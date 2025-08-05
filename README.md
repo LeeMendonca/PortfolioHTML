@@ -1,15 +1,13 @@
-# Portfólio Acadêmico – Exercícios e Práticas
+# 🌐 Portfólio Acadêmico – HTML e CSS
 
-Repositório com **exercícios curtos e comentados**, desenvolvidos ao longo da graduação em Ciência da Computação.  
-Os códigos refletem a aplicação prática de conteúdos vistos em sala de aula, com foco na fixação dos conceitos.
-
-**Linguagens utilizadas:** C, Java, JavaScript, HTML, CSS, Python e SQL.
+Repositório com **exercícios curtos e comentados** desenvolvidos durante a disciplina de **Desenvolvimento Front-End** na graduação.  
+Os códigos foram elaborados para fixar conceitos básicos e intermediários de HTML e CSS, com foco em estruturação de páginas, estilos visuais e responsividade.
 
 ---
 
-## Objetivo do Repositório
+## 🎯 Objetivo do Repositório
 
 Este repositório tem como objetivo:
 
-- Registrar a evolução do meu aprendizado na faculdade.  
-- Compartilhar soluções simples e bem comentadas para consultas futuras.
+- Registrar minha evolução no aprendizado de HTML e CSS por meio da prática.  
+- Compartilhar soluções simples, organizadas e bem comentadas para futuras consultas e revisões.
