@@ -3,6 +3,8 @@
 Repositório com **exercícios curtos e comentados** desenvolvidos durante a disciplina de **Desenvolvimento Front-End** na graduação.  
 Os códigos foram elaborados para fixar conceitos básicos e intermediários de HTML e CSS, com foco em estruturação de páginas, estilos visuais e responsividade.
 
+> Ferramenta utilizada: **Visual Studio Code**
+
 ---
 
 ## 🎯 Objetivo do Repositório
